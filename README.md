@@ -1,7 +1,7 @@
 # Setiment_Analysis_Covid-19
 
 ## Data Wrangling:
-The project starts with some data wrangling. The dataset was built from 2 different resources:
+The project starts with some data wrangling. The dataset was built from 2 different sources:
 
 IEEE Coronavirus (COVID-19) Tweets datasets: https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset#files
 The chosen datasets were: 
