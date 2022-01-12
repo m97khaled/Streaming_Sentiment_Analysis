@@ -5,12 +5,14 @@ The project starts with some data wrangling. The dataset was built from 2 differ
 
 #### IEEE Coronavirus (COVID-19) Tweets datasets:
 https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset#files
+
 The chosen datasets were: 
 corona_tweets_277 (Dec 2020 The begining of the pandemic) and corona_tweets_631 (Dec 2021 one year after the pandemic) 
 Both datasets required hydration in order to get tweet details.
 
 #### Kaggle vaccines dataset:
 https://www.kaggle.com/hassanhshah/covid-vaccine-sentiment-and-time-series-analysis/data
+
 This dataset was wrangled using tweepy and holds data on most vaccines used in entire world on large scale.
 
 ### Final Merged Dataset: 
