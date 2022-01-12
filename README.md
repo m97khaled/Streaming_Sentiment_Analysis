@@ -11,7 +11,8 @@ Both datasets required hydration in order to get tweet details.
 Kaggle vaccines dataset: https://www.kaggle.com/hassanhshah/covid-vaccine-sentiment-and-time-series-analysis/data
 This dataset was wrangled using tweepy and holds data on most vaccines used in entire world on large scale.
 
-### Final Merged Dataset: https://drive.google.com/file/d/1uK8YuChFFTxPgjJmH86bRORMhQlLYrLn/view?usp=sharing
+### Final Merged Dataset: 
+https://drive.google.com/file/d/1uK8YuChFFTxPgjJmH86bRORMhQlLYrLn/view?usp=sharing
 
 ## Data pre-processing:
 First of all some general data exploration took place to get to know the dataset better.
@@ -25,7 +26,8 @@ LSTM was built from scratch with 5 layers.
 BERT's last (output) layer was fine-tuned and trained on the same data as LSTM.
 BERT scored a slightly higher accuracy than LSTM. therefore, it was the one selected for the deployment phase.
 
-### BERT Model pickle: https://drive.google.com/file/d/1tDCkPnfJSOZBWuOiE_HJ_Nq_RZP8S3ZP/view?usp=sharing
+### BERT Model pickle: 
+https://drive.google.com/file/d/1tDCkPnfJSOZBWuOiE_HJ_Nq_RZP8S3ZP/view?usp=sharing
 
 ## Deployment:
 #### Batch Sentiment Prediction:
